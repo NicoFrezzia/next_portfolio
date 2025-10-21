@@ -9,14 +9,14 @@ const nationalParkSliderImages: SliderImage[] = [
   {
     title: "Arches National Park",
     location: "Utah, USA",
-    image: "/arches.png",
+    image: "/arches.jpeg",
     alt: "View of Delicate Arch",
   },
   {
     title: "Chute de Montmonrency",
     location: "Quebec, Canada",
-    image: "/ChutedeMontmonrency.png",
-    alt: "Image of a glacier",
+    image: "/ChutedeMontmonrency.jpeg",
+    alt: "Image of a waterfall",
   },
   {
     title: "Mendenhall Glacier",
