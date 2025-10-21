@@ -9,7 +9,7 @@ const profileImages: ProfileImage[] = [
     alt: "Image of Nico", 
 },
   { 
-    image: "/Nico-2.jpeg", 
+    image: "/Nico-2.png", 
     alt: "Image of Nico", 
 },
   { 

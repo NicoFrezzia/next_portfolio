@@ -1,8 +1,6 @@
 import './globals.css';
 import type { Metadata } from 'next';
 import ResponsiveLayout from './components/ResponsiveLayout';
-import { Analytics } from "@vercel/analytics/next";
-import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata: Metadata = {
   title: 'Nicholas Frezzia Portfolio',
@@ -16,8 +14,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <ResponsiveLayout>
           {children}
         </ResponsiveLayout>
-        <Analytics />
-        <SpeedInsights />
       </body>
     </html>
   );
