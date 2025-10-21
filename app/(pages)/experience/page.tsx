@@ -1,7 +1,5 @@
 import HorizontalScroller from "@/app/components/HorizontalScroller";
-import TextCarousel from "@/app/components/TextCarousel";
 import experiences from "@/app/data/experience";
-import { recommendations } from "@/app/data/recommendations";
 import { ArrowDownTrayIcon } from "@heroicons/react/24/outline";
 
 export default function ExperiencePage() {
