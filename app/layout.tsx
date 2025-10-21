@@ -5,7 +5,7 @@ import { Analytics } from "@vercel/analytics/next";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata: Metadata = {
-  title: 'My Portfolio',
+  title: 'Nicholas Frezzia Portfolio',
   description: 'Created by Nico Frezzia',
 }
 
