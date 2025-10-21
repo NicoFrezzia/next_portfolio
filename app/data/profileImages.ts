@@ -5,7 +5,7 @@ type ProfileImage = {
 
 const profileImages: ProfileImage[] = [
   { 
-    image: "/Nico.jpeg", 
+    image: "/Nico.png", 
     alt: "Image of Nico", 
 },
   { 
@@ -21,7 +21,7 @@ const profileImages: ProfileImage[] = [
     alt: "Image of Nico", 
 },
   { 
-    image: "/Nico-5.jpeg", 
+    image: "/Nico-5.png", 
     alt: "Image of Nico", 
 },
 ]
